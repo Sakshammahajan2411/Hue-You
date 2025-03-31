@@ -6,9 +6,11 @@ This is a fashion recommendation system that helps users find the best fashion c
 
 ✅ 🤖 AI-based fashion recommendations✅ 🎨 User-friendly interface with Tailwind CSS✅ 📈 Scalable architecture
 
+
 🔗 Live Demo
 
 🚀 Check out the live demo here: https://hue-you-k7s2.onrender.com
+
 
 🛠 Installation
 
@@ -19,6 +21,7 @@ To set up the project locally, follow these steps:
 🐍 Python installed on your system
 
 🌐 Node.js and npm installed
+
 
 📥 Steps
 
@@ -35,6 +38,7 @@ pip install -r requirements.txt
 
 npm install
 
+
 🚀 Usage
 
 To start the application, run:
@@ -45,14 +49,17 @@ For frontend development, run:
 
 npm run dev
 
+
 🏗 Technologies Used
 
 🔹 🐍 Python🔹 💻 JavaScript🔹 🎨 Tailwind CSS🔹 🛠 PostCSS🔹 🔧 Autoprefixer
+
 
 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
 1️⃣ 🍴 Fork the repository2️⃣ 🌿 Create a new branch (git checkout -b feature-branch)3️⃣ 📝 Commit your changes (git commit -m 'Add a new feature')4️⃣ 📤 Push to the branch (git push origin feature-branch)5️⃣ 🔄 Create a Pull Request
+
 
 📩 Contact
 
