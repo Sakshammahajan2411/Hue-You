@@ -1,10 +1,10 @@
 🚀 Overview
 
-This fashion recommendation system helps users find the best fashion choices based on various parameters. The project is designed in Python and JavaScript, with Tailwind CSS for styling.
+This fashion recommendation system helps users find the best  choices based on various parameters. The project is designed in Python and JavaScript, with Tailwind CSS for styling.
 
 ✨ Features
 
-✅ 🤖 AI-based fashion recommendations✅ 🎨 User-friendly interface with Tailwind CSS✅ 📈 Scalable architecture
+ AI-based fashion recommendations✅  User-friendly interface with Tailwind CSS ✅  Scalable architecture✅
 
 
 🔗 Live Demo
@@ -18,23 +18,23 @@ To set up the project locally, follow these steps:
 
 📌 Prerequisites
 
-🐍 Python is installed on your system
+ Python is installed on your system
 
-🌐 Node.js and npm installed
+ Node.js and npm installed
 
 
 📥 Steps
 
-1️⃣ Clone the repository:
+1️) Clone the repository:
 
 git clone https://github.com/yourusername/fashion-recommendation.git
 cd fashion-recommendation
 
-2️⃣ Install Python dependencies:
+2️) Install Python dependencies:
 
 pip install -r requirements.txt
 
-3️⃣ Install Node.js dependencies:
+3️) Install Node.js dependencies:
 
 npm install
 
@@ -52,13 +52,13 @@ npm run dev
 
 🏗 Technologies Used
 
-🔹 🐍 Python🔹 💻 JavaScript🔹 🎨 Tailwind CSS🔹 🛠 PostCSS🔹 🔧 Autoprefixer
+🔹  Python🔹  JavaScript🔹  Tailwind CSS🔹  PostCSS🔹  Autoprefixer
 
 
 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
-1️⃣ 🍴 Fork the repository 2️⃣ 🌿 Create a new branch (git checkout -b feature-branch) 3️⃣ 📝 Commit your changes (git commit -m 'Add a new feature') 4️⃣ 📤 Push to the branch (git push origin feature-branch) 5️⃣ 🔄 Create a Pull Request
+1️⃣  Fork the repository 2️⃣ Create a new branch (git checkout -b feature-branch) 3️⃣ Commit your changes (git commit -m 'Add a new feature') 4️⃣  Push to the branch (git push origin feature-branch) 5️⃣ Create a Pull Request
 
 
 📩 Contact
